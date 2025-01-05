@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NL4gofeOsUCG90icpR1iAg" Reference="rg4Nc8yxL0Co8FEeMkqofg/8tBJl51k3k2BtFUB4_rjdQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/104400368" CVScreenId="4bf7630b-37ee-4db8-9f96-98471138cdc8" CvTextArea="83, 642, 77, 18" CvTextArgument="Completed" CvType="Text" DesignTimeRectangle="62, 638, 245, 29" DesignTimeScaleFactor="1.125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Completed' tag='A' type='' class='' check:innerText='Completed' /&gt;" Guid="afed4633-1c26-4ce0-a8e6-c3bfe3dc869c" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a3bbb7fe31aefebf2537273aca3d2d30.png" xmlns="">0KER5qqQDMU2JPZXulssB-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

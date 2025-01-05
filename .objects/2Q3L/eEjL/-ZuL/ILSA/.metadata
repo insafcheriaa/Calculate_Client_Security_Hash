@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open",
+  "Type": "Element",
+  "Id": "ILSAPU2Q60uOWz6R0GKoMA",
+  "Reference": "rg4Nc8yxL0Co8FEeMkqofg/ILSAPU2Q60uOWz6R0GKoMA",
+  "ParentRef": "rg4Nc8yxL0Co8FEeMkqofg/-ZuLKOj520q50ocN1zE31A",
+  "Created": "2024-12-19T22:15:11.6732381Z",
+  "Updated": "2024-12-19T22:15:11.6732381Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
